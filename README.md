@@ -1,5 +1,5 @@
 
-# HDEmb: High-Dimensional Data Embedding
+# HDEmb: High-Dimensional Distance Embedding
 
 HDEmb is a Python module designed for dimensionality reduction on high-dimensional data. It employs iterative triangular adjustments based on high dimensional distances to project the data into 2D space. It sets out to embed the high dimensional distances without skewing or exaggerating values.
 
